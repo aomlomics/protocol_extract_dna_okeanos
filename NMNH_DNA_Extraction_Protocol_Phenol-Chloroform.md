@@ -84,6 +84,7 @@ nucl_acid_ext_method_additional: Not applicable
 | ------------- | ------------- | ------------- |
 | 1.0.0 | 2024-11-26 | Initial version on protocols.io |
 | 1.0.1 | 2025-12-15 | Updated YAML front matter |
+| 1.0.2 | 2025-12-15 | Enabled repository on Zenodo |
 
 ### Acronyms and Abbreviations
 
